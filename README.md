@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Rafi Putra Ramadhan - aka @raprmdn
 
-- 📚 I'm currently studying at Bina Saran Informatika University 🚀
+- 📚 I'm currently studying at Bina Sarana Informatika University 🚀
 - 🌱 I’m currently learning [Laravel Framework](https://github.com/laravel/laravel)
 
 ### 🚀 Get in touch:
