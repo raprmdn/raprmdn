@@ -22,3 +22,7 @@
 ![](https://img.shields.io/badge/Tools-Laragon-informational?style=flat&logo=laragon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raprmdn&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raprmdn&layout=compact)](https://github.com/raprmdn)
+
