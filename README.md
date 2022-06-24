@@ -6,9 +6,10 @@
 ### 🚀 Get in touch:
 
 - Instagram: [@rvimys](https://www.instagram.com/rvimys)
-- Twitter: [https://twitter.com/raprmdn](https://twitter.com/raprmdn)
-- Facebook: [https://www.facebook.com/rafiputra.ramadhan.1](https://www.facebook.com/rafiputra.ramadhan.1)
+- Twitter: [@raprmdn](https://twitter.com/raprmdn)
+- Facebook: [Rafi](https://www.facebook.com/rafiputra.ramadhan.1)
 - Email: rafiputraramadhan14@gmail.com
+- Linkedin: [@raprmdn](https://www.linkedin.com/in/raprmdn/)
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
