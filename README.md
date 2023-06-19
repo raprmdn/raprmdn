@@ -5,7 +5,7 @@
 
 ### 🚀 Get in touch:
 
-- Instagram: [@rvimys](https://www.instagram.com/rvimys)
+- Instagram: [@raprmdn](https://www.instagram.com/raprmdn)
 - Twitter: [@raprmdn](https://twitter.com/raprmdn)
 - Facebook: [Rafi](https://www.facebook.com/rafiputra.ramadhan.1)
 - Email: rafiputraramadhan14@gmail.com
