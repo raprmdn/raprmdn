@@ -4,7 +4,7 @@ I am a Full-Stack Developer with over 2 years of experience building and maintai
 
 ### 🚀 Get in touch:
 
-- Facebook: [raprmdn.dev](https://raprmdn.dev)
+- Website: [raprmdn.dev](https://raprmdn.dev)
 - Email: [hello@raprmdn.dev](mailto:hello@raprmdn.dev)
 - LinkedIn: [@raprmdn](https://www.linkedin.com/in/raprmdn/)
 
